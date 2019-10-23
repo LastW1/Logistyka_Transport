@@ -1,0 +1,11 @@
+C:\Users\Lenovo\source\repos\c#\Logistyka\LogistykaTransport\LogistykaTransport\bin\Debug\LogistykaTransport.exe.config
+C:\Users\Lenovo\source\repos\c#\Logistyka\LogistykaTransport\LogistykaTransport\bin\Debug\LogistykaTransport.exe
+C:\Users\Lenovo\source\repos\c#\Logistyka\LogistykaTransport\LogistykaTransport\bin\Debug\LogistykaTransport.pdb
+C:\Users\Lenovo\source\repos\c#\Logistyka\LogistykaTransport\LogistykaTransport\obj\Debug\LogistykaTransport.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\c#\Logistyka\LogistykaTransport\LogistykaTransport\obj\Debug\LogistykaTransport.Form1.resources
+C:\Users\Lenovo\source\repos\c#\Logistyka\LogistykaTransport\LogistykaTransport\obj\Debug\LogistykaTransport.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\c#\Logistyka\LogistykaTransport\LogistykaTransport\obj\Debug\LogistykaTransport.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\c#\Logistyka\LogistykaTransport\LogistykaTransport\obj\Debug\LogistykaTransport.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\c#\Logistyka\LogistykaTransport\LogistykaTransport\obj\Debug\LogistykaTransport.exe
+C:\Users\Lenovo\source\repos\c#\Logistyka\LogistykaTransport\LogistykaTransport\obj\Debug\LogistykaTransport.pdb
+C:\Users\Lenovo\source\repos\c#\Logistyka\LogistykaTransport\LogistykaTransport\obj\Debug\LogistykaTransport.Form2.resources
